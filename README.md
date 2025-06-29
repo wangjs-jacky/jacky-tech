@@ -6,7 +6,7 @@
 
 > 站在巨人的肩膀上开发
 
-- **框架 **：`Next.js` +`React19`
+- **框架**：`Next.js` +`React19`
 - **UI 组件库**：`shadcn/ui` + `Tailwind/Unocss`
 - **状态管理**：
   - Zustand：全局状态管理
